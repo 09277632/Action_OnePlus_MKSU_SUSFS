@@ -42,7 +42,8 @@ on:
           - oneplus_13
           - oneplus_13t
           - oneplus_ace5_pro
-          - GitHub有bug可能不显示最后一项,误使用此项
+          - JiuGeFaCai_oneplus_ace5_pro_v
+          - GitHub有bug可能不显示最后一项,故添加此项,请勿点击
       CPUD:
         type: choice
         description: "处理器代号"
